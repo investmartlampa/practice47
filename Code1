@@ -1,0 +1,3 @@
+Var clouds = true;
+Var name = "Jason Lampa";
+Var sum = 7+8;
